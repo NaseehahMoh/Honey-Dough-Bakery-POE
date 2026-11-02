@@ -30,11 +30,20 @@ The forms validate information in the browser and prepare an email addressed to 
 ## Technologies
 HTML5, CSS3, JavaScript, Leaflet, OpenStreetMap, Visual Studio Code and GitHub.
 
-## Running the website
-Open `index.html` in a browser. An internet connection is needed for the interactive map tiles and Leaflet library.
-
-## Project files
-HTML pages: `index.html`, `about.html`, `menu.html`, `order.html`, `enquiry.html`, `contact.html`; stylesheet: `style.css`; JavaScript: `script.js`; images: `Images/`; SEO: `robots.txt`, `sitemap.xml`; documentation: `README.md`, `CHANGELOG.md`, `REFERENCES.md`.
+## Running the website locally
+1. Download or extract the project folder.
+2. Keep the `Images` folder in the same project folder as `index.html`.
+3. Open `index.html` in a web browser.
+4. An internet connection is needed for the interactive map tiles and Leaflet library.
 
 ## Deployment
-Before publishing, replace `YOUR-GITHUB-USERNAME` and `YOUR-REPOSITORY` in `robots.txt` and `sitemap.xml` with the actual GitHub Pages address.
+The website is published using GitHub Pages:
+
+- **Live website:** https://naseehahmoh.github.io/Honey-Dough-Bakery-POE/
+- **GitHub repository:** https://github.com/naseehahmoh/Honey-Dough-Bakery-POE
+
+## Project files
+HTML pages: `index.html`, `about.html`, `menu.html`, `order.html`, `enquiry.html`, `contact.html`; stylesheet: `style.css`; JavaScript: `script.js`; images: `Images/`; SEO files: `robots.txt`, `sitemap.xml`; documentation: `README.md`, `CHANGELOG.md`, `REFERENCES.md`.
+
+## GitHub Pages note
+The `Images` folder must remain alongside the HTML files in the repository. File and folder names are case-sensitive on GitHub Pages.
